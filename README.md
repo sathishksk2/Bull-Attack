@@ -7,6 +7,8 @@ you can get websites/domain and ip address information using Bull Attack tool
 pkg install python -y &&
 pip install bullattack &&
 bullattack
+chmod +x B-attack.py
+python2 B-attack.py
 ```
 copy all code and paste it in termux ;)
 
